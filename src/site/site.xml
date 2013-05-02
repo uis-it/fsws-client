@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project name="${project.name}">
-	<version position="right"/>
+	<version position="left"/>
 	<bannerLeft>
-		<name>${project.name} ${project.version}</name>
+		<name>${project.groupId}:${project.artifactId}</name>
 	</bannerLeft>
 	<bannerRight>
-		<src>http://forge.uis.no/maven-site/uis-parent-pom/images/uis_logo.gif</src>
+		<src>../../uis-parent-pom/images/uis_logo.gif</src>
 		<alt>UiS</alt>
 		<href>http://www.uis.no</href>
 	</bannerRight>

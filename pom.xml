@@ -6,7 +6,7 @@
   <version>1.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>client-fsws</name>
+  <name>FS-WS Client</name>
   <url>http://forge.uis.no/projects/fsws-client</url>
 
   <description>FS-WS client built from WSDL as published on https://www.fellesstudentsystem.no/dokumentasjon/teknisk/fsws-dok/. (NB the site requires login)</description>
