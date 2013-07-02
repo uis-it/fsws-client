@@ -7,7 +7,7 @@
   <packaging>jar</packaging>
 
   <name>FS-WS Client</name>
-  <url>http://forge.uis.no/projects/fsws-client</url>
+  <url>https://github.com/uis-it/fsws-client</url>
 
   <description>FS-WS client built from WSDL as published on https://www.fellesstudentsystem.no/dokumentasjon/teknisk/fsws-dok/. (NB the site requires login)</description>
 
@@ -19,9 +19,9 @@
 
   <inceptionYear>2010</inceptionYear>
   <scm>
-    <connection>scm:git:git://forge.uis.no/fs-ws/fsws-client.git</connection>
-    <developerConnection>scm:git:ssh://git@forge.uis.no/fs-ws/fsws-client.git</developerConnection>
-    <url>http://forge.uis.no/projects/fsws-client</url>
+    <connection>scm:git:git://github.com/uis-it/fsws-client.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/uis-it/fsws-client.git</developerConnection>
+    <url>https://github.com/uis-it/fsws-client</url>
   </scm>
 
   <ciManagement>
@@ -30,12 +30,12 @@
   </ciManagement>
 
   <issueManagement>
-    <system>ChiliProject</system>
-    <url>http://forge.uis.no/projects/fsws-client/issues</url>
+    <system>Github</system>
+    <url>https://github.com/uis-it/fsws-client/issues</url>
   </issueManagement>
 
   <properties>
-    <cxf-codegen.version>2.3.2</cxf-codegen.version>
+    <cxf-codegen.version>2.7.5</cxf-codegen.version>
   </properties>
 
   <profiles>
